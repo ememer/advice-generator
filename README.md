@@ -1,11 +1,48 @@
-# Frontend Mentor - Advice generator app
+# Advice generator app
 
-![Design preview for the Advice generator app coding challenge](./design/desktop-preview.jpg)
 
-## Welcome! 👋
+This website is my own project inspired by chellange from FRONTENDMENTOR.IO
+This project is sandbox for first steps with TypeScript
 
-Temporary DEMO LINK
 
-https://codesandbox.io/s/github/ememer/advice-generator
 
-Not published yet
+## Tech Stack
+
+**Client:** React, basic TypeScript
+
+
+
+
+## Run Locally
+
+Clone the project
+
+```bash
+  git clone https://github.com/ememer/advice-generator.git
+```
+
+Go to the project directory
+
+```bash
+  cd advice-generator
+```
+
+Install dependencies
+
+```bash
+  npm install
+```
+
+Start the server
+
+```bash
+  npm run start
+```
+
+Run demo via link
+
+## Demo
+
+https://chillycube.pl/advice-app/
+
+
